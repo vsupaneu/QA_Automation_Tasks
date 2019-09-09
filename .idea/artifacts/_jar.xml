@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Супонев:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="Супонев.jar">
+      <element id="module-output" name="Супонев" />
+    </root>
+  </artifact>
+</component>
